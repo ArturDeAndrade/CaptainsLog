@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: var(--prim);
+}
+
+.logo {
+    font-size: 4rem;
+}
